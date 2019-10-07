@@ -1,0 +1,422 @@
+intercept or w0 49.25608738948132
+Coefficients [2.07895612]
+Mean Absolute error =  17.02750179671195
+Mean Squared error =  345.555513538175
+Root Mean Squared Error =  18.589123527971267
+0 iteration results:
+
+intercept or w0 33.63064361552608
+Coefficients [3.41736708]
+Mean Absolute error =  7.765467738274765
+Mean Squared error =  85.9237582712246
+Root Mean Squared Error =  9.269506905506063
+1 iteration results:
+
+intercept or w0 27.322561997788487
+Coefficients [4.82256714]
+Mean Absolute error =  10.448503884548732
+Mean Squared error =  159.1878672427218
+Root Mean Squared Error =  12.616967434479722
+2 iteration results:
+
+intercept or w0 34.86826556327126
+Coefficients [3.18966995]
+Mean Absolute error =  6.027868969710186
+Mean Squared error =  81.57457248875403
+Root Mean Squared Error =  9.031864286444634
+3 iteration results:
+
+intercept or w0 34.343573937887214
+Coefficients [3.46977262]
+Mean Absolute error =  8.910113834281347
+Mean Squared error =  143.74012533234446
+Root Mean Squared Error =  11.9891669991015
+4 iteration results:
+
+intercept or w0 31.80097413516379
+Coefficients [3.27150152]
+Mean Absolute error =  9.430543243309078
+Mean Squared error =  154.15112273123296
+Root Mean Squared Error =  12.41576106129757
+5 iteration results:
+
+intercept or w0 44.62993755758845
+Coefficients [2.08835803]
+Mean Absolute error =  12.40489602493558
+Mean Squared error =  215.65082896840028
+Root Mean Squared Error =  14.685054612373774
+6 iteration results:
+
+intercept or w0 34.23876532837281
+Coefficients [3.11333863]
+Mean Absolute error =  7.700106181647539
+Mean Squared error =  123.82305816145515
+Root Mean Squared Error =  11.127580966295197
+7 iteration results:
+
+intercept or w0 32.695529718261035
+Coefficients [3.28059214]
+Mean Absolute error =  6.6004499494421776
+Mean Squared error =  98.80500182824255
+Root Mean Squared Error =  9.940070514249008
+8 iteration results:
+
+intercept or w0 34.66918217641035
+Coefficients [2.96835344]
+Mean Absolute error =  6.87079350149161
+Mean Squared error =  78.15120357263677
+Root Mean Squared Error =  8.840316938472103
+9 iteration results:
+
+intercept or w0 29.57691217620441
+Coefficients [3.39678662]
+Mean Absolute error =  10.73105658212558
+Mean Squared error =  178.24665198063576
+Root Mean Squared Error =  13.35090453791936
+10 iteration results:
+
+intercept or w0 27.169017497374362
+Coefficients [5.03126738]
+Mean Absolute error =  13.200742797520586
+Mean Squared error =  252.51412596519648
+Root Mean Squared Error =  15.890693061197693
+11 iteration results:
+
+intercept or w0 37.58431310742104
+Coefficients [3.03298451]
+Mean Absolute error =  7.054248223605538
+Mean Squared error =  99.25610132151975
+Root Mean Squared Error =  9.962735634428917
+12 iteration results:
+
+intercept or w0 30.002491117834193
+Coefficients [3.86471636]
+Mean Absolute error =  9.034747536840817
+Mean Squared error =  126.15841886325377
+Root Mean Squared Error =  11.232026480704796
+13 iteration results:
+
+intercept or w0 31.381589388951173
+Coefficients [3.08127366]
+Mean Absolute error =  11.907681493380926
+Mean Squared error =  198.71789578352391
+Root Mean Squared Error =  14.096733514666578
+14 iteration results:
+
+intercept or w0 32.675265856836624
+Coefficients [3.84651759]
+Mean Absolute error =  9.148001870455213
+Mean Squared error =  145.35386227771428
+Root Mean Squared Error =  12.056278956531916
+15 iteration results:
+
+intercept or w0 41.017513237637445
+Coefficients [2.66199038]
+Mean Absolute error =  9.840347497400705
+Mean Squared error =  159.08101703622697
+Root Mean Squared Error =  12.612732338245626
+16 iteration results:
+
+intercept or w0 31.852312569621965
+Coefficients [3.30869303]
+Mean Absolute error =  8.827616162707454
+Mean Squared error =  157.2254563777893
+Root Mean Squared Error =  12.53895754749131
+17 iteration results:
+
+intercept or w0 41.86905357117724
+Coefficients [2.9369989]
+Mean Absolute error =  11.379902814495349
+Mean Squared error =  192.95518654769893
+Root Mean Squared Error =  13.890831024373558
+18 iteration results:
+
+intercept or w0 33.26734992896644
+Coefficients [3.59127576]
+Mean Absolute error =  9.868999081218405
+Mean Squared error =  165.40469986405282
+Root Mean Squared Error =  12.860975851934908
+19 iteration results:
+
+intercept or w0 37.13134239781478
+Coefficients [2.88992373]
+Mean Absolute error =  8.61135318141052
+Mean Squared error =  142.2521240053705
+Root Mean Squared Error =  11.926949484481373
+           Predicted_val  count
+Club                           
+Juve         1104.961827   12.0
+SSC           766.323860   11.0
+ATL           523.951429   12.0
+inter         721.553087   10.0
+milan         672.939989    8.0
+roma          705.498806   11.0
+torino        544.943802   12.0
+lazio         458.154301    8.0
+sampd         579.597619   13.0
+bologna       340.230332    8.0
+sassuol       399.502209    9.0
+calcio        181.436200    4.0
+spal          308.199289    8.0
+parma         445.234959   12.0
+cagilari      406.212191    9.0
+fiorent       422.600255    8.0
+geona         490.504825   12.0
+fc empoli     346.698629    9.0
+frosinone     483.661217   12.0
+chievo        473.186403   12.0
+           Predicted_val  count       mean
+Club                                      
+Juve         1104.961827   12.0  92.080152
+SSC           766.323860   11.0  69.665805
+ATL           523.951429   12.0  43.662619
+inter         721.553087   10.0  72.155309
+milan         672.939989    8.0  84.117499
+roma          705.498806   11.0  64.136255
+torino        544.943802   12.0  45.411984
+lazio         458.154301    8.0  57.269288
+sampd         579.597619   13.0  44.584432
+bologna       340.230332    8.0  42.528792
+sassuol       399.502209    9.0  44.389134
+calcio        181.436200    4.0  45.359050
+spal          308.199289    8.0  38.524911
+parma         445.234959   12.0  37.102913
+cagilari      406.212191    9.0  45.134688
+fiorent       422.600255    8.0  52.825032
+geona         490.504825   12.0  40.875402
+fc empoli     346.698629    9.0  38.522070
+frosinone     483.661217   12.0  40.305101
+chievo        473.186403   12.0  39.432200
+           Points  Marketval
+Club                        
+Juve           90      16.88
+SSC            79      10.99
+ATL            69       3.27
+inter          69      11.13
+milan          68      13.32
+roma           66       8.70
+torino         63       3.61
+lazio          59       6.94
+sampd          53       3.30
+bologna        44       2.40
+sassuol        43       3.15
+calcio         43       3.24
+spal           42       1.64
+parma          41       1.05
+cagilari       41       2.86
+fiorent        41       5.03
+geona          38       1.78
+fc empoli      38       1.13
+frosinone      25       1.56
+chievo         17       1.03
+intercept or w0 127.6490485095149
+Coefficients [-0.82554174 -1.52067979]
+Mean Absolute error =  33.191480585194164
+Mean Squared error =  1387.9718838851934
+Root Mean Squared Error =  37.25549468045208
+0 iteration results:
+
+intercept or w0 558.4525754292388
+Coefficients [-18.39306551  -2.74062344]
+Mean Absolute error =  27.99401566927822
+Mean Squared error =  1034.7122411522664
+Root Mean Squared Error =  32.16694329824123
+1 iteration results:
+
+intercept or w0 185.05178903195224
+Coefficients [-4.53016621 -0.9674921 ]
+Mean Absolute error =  14.472377371739546
+Mean Squared error =  298.6259225312658
+Root Mean Squared Error =  17.280796351188965
+2 iteration results:
+
+intercept or w0 247.90329839856767
+Coefficients [-7.00926797 -0.91363533]
+Mean Absolute error =  18.69181608100022
+Mean Squared error =  525.2989146455243
+Root Mean Squared Error =  22.91940039890931
+3 iteration results:
+
+intercept or w0 320.5216774857626
+Coefficients [-10.81853758  -0.60605107]
+Mean Absolute error =  12.94302971912894
+Mean Squared error =  239.4939015605286
+Root Mean Squared Error =  15.475590507651997
+4 iteration results:
+
+intercept or w0 172.6204554630574
+Coefficients [-5.55545008  0.36421784]
+Mean Absolute error =  13.966682488031841
+Mean Squared error =  312.6754311744765
+Root Mean Squared Error =  17.682630776399662
+5 iteration results:
+
+intercept or w0 144.86803716865813
+Coefficients [-3.02116157 -0.8537365 ]
+Mean Absolute error =  17.935899668784174
+Mean Squared error =  437.8738416723787
+Root Mean Squared Error =  20.925435280356265
+6 iteration results:
+
+intercept or w0 53.61583183310427
+Coefficients [-0.70401356  0.57781955]
+Mean Absolute error =  13.124429736312607
+Mean Squared error =  296.57724270668433
+Root Mean Squared Error =  17.221418138663388
+7 iteration results:
+
+intercept or w0 -85.91116132947403
+Coefficients [4.83545879 1.0050093 ]
+Mean Absolute error =  14.194929576230503
+Mean Squared error =  360.6859679069965
+Root Mean Squared Error =  18.991734199566835
+8 iteration results:
+
+intercept or w0 139.36763914862672
+Coefficients [-3.8918584  -0.03408575]
+Mean Absolute error =  10.923676222434066
+Mean Squared error =  208.0782857093856
+Root Mean Squared Error =  14.42491891517542
+9 iteration results:
+
+intercept or w0 440.6418704853631
+Coefficients [-16.44848562  -0.13353821]
+Mean Absolute error =  16.497402103662402
+Mean Squared error =  471.4202843583591
+Root Mean Squared Error =  21.71221509561747
+10 iteration results:
+
+intercept or w0 182.50005697544458
+Coefficients [-5.65545112 -0.03866858]
+Mean Absolute error =  9.110152214725812
+Mean Squared error =  161.61752290355753
+Root Mean Squared Error =  12.712888063046789
+11 iteration results:
+
+intercept or w0 382.9039518566126
+Coefficients [-14.04688807  -0.20273042]
+Mean Absolute error =  16.791790878664944
+Mean Squared error =  475.58239506756854
+Root Mean Squared Error =  21.80785168391349
+12 iteration results:
+
+intercept or w0 274.7858811130415
+Coefficients [-8.40590907 -0.95030523]
+Mean Absolute error =  19.930732783451745
+Mean Squared error =  543.1430387002154
+Root Mean Squared Error =  23.305429382446814
+13 iteration results:
+
+intercept or w0 338.2892246156489
+Coefficients [-10.59507606  -1.23632056]
+Mean Absolute error =  17.053271304391
+Mean Squared error =  404.972452126883
+Root Mean Squared Error =  20.123927353448757
+14 iteration results:
+
+intercept or w0 172.10387554832002
+Coefficients [-5.30032724  0.11792426]
+Mean Absolute error =  10.462944360166578
+Mean Squared error =  160.61392755503564
+Root Mean Squared Error =  12.673355023632679
+15 iteration results:
+
+intercept or w0 202.4549193098698
+Coefficients [-6.72581756  0.15625923]
+Mean Absolute error =  12.194400892183548
+Mean Squared error =  230.57231527247274
+Root Mean Squared Error =  15.184607840588862
+16 iteration results:
+
+intercept or w0 572.3027319373188
+Coefficients [-19.74899459  -2.29468867]
+Mean Absolute error =  25.116599639439755
+Mean Squared error =  856.0482600533975
+Root Mean Squared Error =  29.258302412364895
+17 iteration results:
+
+intercept or w0 400.7500156013498
+Coefficients [-14.13315232  -0.76885653]
+Mean Absolute error =  15.086072032959844
+Mean Squared error =  427.8496786640759
+Root Mean Squared Error =  20.684527518511896
+18 iteration results:
+
+intercept or w0 93.89037376862112
+Coefficients [-0.97162184 -0.64865682]
+Mean Absolute error =  14.383670926051071
+Mean Squared error =  293.0763821192681
+Root Mean Squared Error =  17.119473768760187
+19 iteration results:
+
+intercept or w0 202.77318310789505
+Coefficients [-6.82934751  0.00873529]
+Mean Absolute error =  18.667647735859454
+Mean Squared error =  502.0530929227788
+Root Mean Squared Error =  22.40654129763848
+           Predicted_val  count
+Club                           
+Juve          354.436552    8.0
+SSC           617.303777   12.0
+ATL           813.974177   13.0
+inter         472.515610    9.0
+milan         244.337665    5.0
+roma          448.697166    8.0
+torino        544.047276   10.0
+lazio         735.017217   15.0
+sampd         801.252541   14.0
+bologna       468.172010   10.0
+sassuol       814.879867   12.0
+calcio        408.367374   10.0
+spal          613.041741   13.0
+parma         408.239207    9.0
+cagilari      529.903945   12.0
+fiorent       493.610682    8.0
+geona         491.701408    9.0
+fc empoli     566.194302   10.0
+frosinone     507.142807    8.0
+chievo        266.585091    5.0
+           Predicted_val  count       mean
+Club                                      
+Juve          354.436552    8.0  44.304569
+SSC           617.303777   12.0  51.441981
+ATL           813.974177   13.0  62.613398
+inter         472.515610    9.0  52.501734
+milan         244.337665    5.0  48.867533
+roma          448.697166    8.0  56.087146
+torino        544.047276   10.0  54.404728
+lazio         735.017217   15.0  49.001148
+sampd         801.252541   14.0  57.232324
+bologna       468.172010   10.0  46.817201
+sassuol       814.879867   12.0  67.906656
+calcio        408.367374   10.0  40.836737
+spal          613.041741   13.0  47.157057
+parma         408.239207    9.0  45.359912
+cagilari      529.903945   12.0  44.158662
+fiorent       493.610682    8.0  61.701335
+geona         491.701408    9.0  54.633490
+fc empoli     566.194302   10.0  56.619430
+frosinone     507.142807    8.0  63.392851
+chievo        266.585091    5.0  53.317018
+           Points   Age  F_players
+Club                              
+Juve           90  24.0         25
+SSC            79  23.3         27
+ATL            69  21.7         29
+inter          69  23.0         30
+milan          68  23.5         22
+roma           66  22.8         27
+torino         63  22.8         29
+lazio          59  23.4         34
+sampd          53  22.5         30
+bologna        44  24.0         27
+sassuol        43  22.8         15
+calcio         43  23.7         41
+spal           42  24.3         19
+parma          41  24.6         20
+cagilari       41  24.9         19
+fiorent        41  22.0         36
+geona          38  22.8         34
+fc empoli      38  23.1         24
+frosinone      25  24.8         10
+chievo         17  23.7         32
